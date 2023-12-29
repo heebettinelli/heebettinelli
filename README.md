@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/heebettinelli"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?heebettinelli=anuraghazra&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?heebettinelli=anuraghazra&hide_progress=false&theme=dracula"/>
 </div>
 
 
