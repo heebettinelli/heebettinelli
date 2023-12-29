@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm a frontend student 👋
 
-- 🔭 I’m currently working on my site / portfolio
+- 🔭 I’m currently working on my site / portfolio in JavaScript
 - 🌱 I’m currently learning Typescrip and React
 - 😄 Pronouns: she/her
 
