@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/heebettinelli"></a>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
-  <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dracula"/>
 </div>
 
 
