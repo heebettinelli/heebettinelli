@@ -1,7 +1,7 @@
 ### Hi there I'm a frontend student 👋
 
 - 🔭 I’m currently working on my site / portfolio in JavaScript
-- 🌱 I’m currently learning Typescrip and React
+- 🌱 I’m currently learning Typescript and React
 - 😄 Pronouns: she/her
 
 <div>
